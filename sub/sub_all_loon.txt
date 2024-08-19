@@ -1,7 +1,5 @@
-https://music.easygourl.xyz/link/IZL3EGvwN2i704vhJXXDAIWhzSnU6NGM?client=clash
-https://music.easygourl.xyz/link/vs68cXJ8nCtMD0yucOtoLTy2yKqdiT5D?config=all
 https://mc.jiedianxielou.workers.dev
-https://dy.smjc.top/api/v1/client/subscribe?token=1edf7f913abc80a550a1bba44361dc2c
-https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
+https://subs.zeabur.app/clash
+https://api2.mbo-xxx.top/api/v1/client/subscribe?token=cfeb1ca75485fd3782480ebd2fbc53cd
+http://dishujichang.xyz/api/v1/client/subscribe?token=5b6bc131aeeccb53b207a69f78ce16be
 https://m2net.sbs/api/v1/client/subscribe?token=00977be5181e74d90c09a412e3e66efd
-https://zjsub.gitpub.top/api/v1/client/subscribe?token=140c71acf1ef34766c267f9ea36ba79f
