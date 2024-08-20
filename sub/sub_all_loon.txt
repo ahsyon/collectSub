@@ -1,5 +1,6 @@
-https://sublink.52cloud.eu.org/api/v1/client/subscribe?token=8025d164-d726-40ed-af06-d7ea1138d1a4
 https://subs.zeabur.app/clash
-https://music.easygourl.xyz/link/vs68cXJ8nCtMD0yucOtoLTy2yKqdiT5D?config=all
-https://music.easygourl.xyz/link/HxY88neuT7LKwCeD924p7XR7D1Rfeo16?clash=1
-https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
+http://dishujichang.xyz/api/v1/client/subscribe?token=5b6bc131aeeccb53b207a69f78ce16be
+https://m2net.sbs/api/v1/client/subscribe?token=00977be5181e74d90c09a412e3e66efd
+https://mc.jiedianxielou.workers.dev
+https://mc.jiedianxielou.workers.dev/
+https://dy3.yunhu1.xyz/api/v1/client/subscribe?token=16a23bad9c8cb12ff4555ce916d9c1ba
