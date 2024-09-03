@@ -1,5 +1,5 @@
-https://gx.591haoka.com/api/v1/client/subscribe/token=9e48312624d64c219f8e7u9af55b4k238bh7
-https://music.easygourl.xyz/link/vs68cXJ8nCtMD0yucOtoLTy2yKqdiT5D?config=all
+https://mc.jiedianxielou.workers.dev
 https://time1721057549.nginxcaiyun.xyz/api/v1/client/subscribe?token=0b02e082e6dddee3f782213be16674d0
-https://mc.jiedianxielou.workers.dev/
-https://www.tannel.xyz/link/UschoWctNOC78yhs?sub=3
+https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
+https://ymzx.jiedianxielou.workers.dev/api/v1/client/subscribe?token=8dfd36317be546ce993d2fc792cbe270
+https://syyn.xyz/api/v1/client/subscribe?token=1b49383898b23801b5965869a6cb12d7
