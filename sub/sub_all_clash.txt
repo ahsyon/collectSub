@@ -1,5 +1,11 @@
-http://ant77.top/api/v1/client/subscribe?token=d580223a12d39508006e655dbc34b0fa
-https://dingyue.trojanws.xyz/api/v1/client/subscribe?token=40f7985b72395792f4c7cf86898d4f5f
-https://gx.591haoka.com/api/v1/client/subscribe/token=9e48312624d64c219f8e7u9af55b4k238bh7
-https://mojie.app/api/v1/client/subscribe?token=ce77d629eb0bcea28739ffefa5620218
-https://server.fylink.link/api/public/sub/a40205edd0454a9090e0276f09b36009
+https://a.sdwan.im/api/v1/client/subscribe?token=e78d3e6b5749e0d342b9dc12ac28f6f2
+https://api.xinyo.vip/api/v1/client/subscribe?token=825684aa7107efeabe525c12bd10bd02
+https://api1.fzdwf.top/api/v1/client/subscribe?token=67706c7a66b91ab14742f3e54771037f
+https://cedb4ccc-89b7-3a24-962c-ea8f65b11deb.aliyunsub.com/link/3kjWSxNGuWbqnUHP?sub=3&amp;extend=1
+https://dingyue.trojanws.xyz/api/v1/client/subscribe?token=eb422ab6820bb79f8af2f82c05de5525
+https://linke.phantasy.life/api/v1/client/subscribe?token=1cc7a298ad12e7ac0dfd87f579da2023&amp;flag=meta
+https://mc.jiedianxielou.workers.dev/
+https://ninjasub.com/link/XuJjIoZPaC1puYCe?clash=1
+https://server.fylink.link/api/public/sub/a40205edd0454a9090e0276f09b36009/FYLink
+https://sub.vpntz.com/api/v1/client/subscribe?token=cc517021f7453860191454e111455507
+https://update.glados-config.com/clash/478427/f88d37b/72376/glados.yaml
