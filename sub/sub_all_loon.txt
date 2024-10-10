@@ -1,5 +1,4 @@
-https://mc.jiedianxielou.workers.dev/
-https://gx.591haoka.com/api/v1/client/subscribe/token=9e48312624d64c219f8e7u9af55b4k238bh7
-https://sub123.71345.xyz/api/v1/client/subscribe?token=95388132afab15570d496c96fe99474d
+https://subs.zeabur.app/clash
+https://linke.phantasy.life/api/v1/client/subscribe?token=0072d7d5b225b936675b2f6d5e87d9de
 https://mc.jiedianxielou.workers.dev
-https://38.181.25.67/api/v1/client/subscribe?token=9fbba2d5e199b0a8fb1fb3f27538c3e4
+https://sub.domiw.com/api/v1/client/subscribe?token=72f048920fda027244c48a392e08611e
