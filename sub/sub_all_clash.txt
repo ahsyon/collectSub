@@ -1,4 +1,12 @@
-https://api.fenghuolun.xyz/api/v1/client/subscribe?token=a9236b831f8019a4914004d9dabca481
-https://s1.bnsubservdom.com/api/v1/client/subscribe?token=c03752033d7f2b0ba9f1e8ef0b174307
-https://subscribe.insidergame.xyz/api/v1/client/subscribe?token=b8c7f5d1cec04b203b0e8f50c6c56a3c
+https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=5cb24ce689fecdb776dbcc0f5c29fde5
+https://a.aikllc.tech/api/v1/client/subscribe?token=9a6b1bf0dd3469fc0fe3bc79a2b0ba92
+https://api.fenghuolun.xyz/api/v1/client/subscribe?token=a4d967de43dd1dabe314e0b43dea2971
+https://aq.louwangzhiyu.xyz/api/v1/client/subscribe?token=1df19eb36b48ca575ce86efb8267ada0
+https://csgo.fask511.cfd/api/v1/client/subscribe?token=f14e52e1b15c6547e982b23481533e87
+https://l.db-link01.top/link/1H9b3ZbQHuRbeGUP?clash=1
+https://mc.jiedianxielou.workers.dev/
+https://api.fenghuolun.xyz/api/v1/client/subscribe?token=87ac36beeb72ab1d00e20ea4646f7a93
+https://vips.lol/api/v1/client/subscribe?token=9d2b3fb97717f1091dd5fc2dbd8f5a66
+https://xs.mashiroshina.top/api/v1/client/subscribe?token=307cc562689201ef52ffde46732b6b9d
+https://xsus.wiki/api/v1/client/subscribe?token=d0bd22a534e76a5eb6aca4f3e60b5af5&amp;flag=clash
 https://zqjc.org/api/v1/client/subscribe?token=90bf1e7381a3e9597b8b0bcb69028fc2
