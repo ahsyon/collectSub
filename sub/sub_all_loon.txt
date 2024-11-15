@@ -1,7 +1,5 @@
-https://hongxingdl.com/hxvip?token=2f9906bc94777354f1161251d370abfa
-https://app.jisovpn.site/api/v1/client/subscribe?token=b87afe5c85c59f422ded2956e53ebdc5
-https://mc.jiedianxielou.workers.dev
-https://sublink.52cloud.eu.org/api/v1/client/subscribe?token=8025d164-d726-40ed-af06-d7ea1138d1a4
-https://fengqunvpnvip.jmvks.cn/api/v1/client/subscribe?token=ece6138e631ccca0a01448ef3afe672a
+https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
+http://n15uvht4r659107p.eastasia.cloudapp.azure.com/queue/list?token=40c55cc7caba14930d459adfdc70735c
+https://mc.jiedianxielou.workers.dev/
+https://linke.phantasy.life/api/v1/client/subscribe?token=1cc7a298ad12e7ac0dfd87f579da2023&amp;flag=meta
 https://app.jisovpn.site/api/v1/client/subscribe?token=352049eecc0d30658488bcf11184018e
-https://study.jaycloud11111.top/study?token=ea9d115179b89ad752737bceaf1d1ce6
