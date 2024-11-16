@@ -1,7 +1,6 @@
-https://pavo.eu.org/api/v1/client/subscribe?token=f548cee7fef0b06cbed0983c7cd901d2
-https://dl.owokkvsxks.store/api/v1/client/subscribe?token=b06d88f4bfb7660fcc7ca4ef18686d56
-https://sublink.52cloud.eu.org/api/v1/client/subscribe?token=8025d164-d726-40ed-af06-d7ea1138d1a4
+https://mc.jiedianxielou.workers.dev
 https://mc.jiedianxielou.workers.dev/
-https://app.jisovpn.site/api/v1/client/subscribe?token=5d2f12c9211d3c62d9cfe6360f4da146#9itrguit
-https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
 https://vot.278986.xyz/api/v1/client/subscribe?token=5596c41f1db48da17b8271aa6975016b
+https://www.066664.xyz/api/v1/client/subscribe?token=5ec34216e7bbd89ef9cbe2741ebe3f7d&amp;flag=clash
+https://zjsub.gitpub.top/api/v1/client/subscribe?token=140c71acf1ef34766c267f9ea36ba79f
+https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
