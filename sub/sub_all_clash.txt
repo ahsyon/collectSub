@@ -1,8 +1,7 @@
-http://101.200.14.80:3325/api/v1/client/subscribe?token=4bbd5149d786e6ead646d4b5bbaee6a8
-https://38.181.25.67/api/v1/client/subscribe?token=9fbba2d5e199b0a8fb1fb3f27538c3e4
-https://dd.moonriver.cfd/api/v1/client/subscribe?token=2f357d08492582d684f8493f1aa0967c
-https://linke.phantasy.life/api/v1/client/subscribe?token=1cc7a298ad12e7ac0dfd87f579da2023
-https://new.xn--pbt38zg4v.com/api/v1/client/subscribe?token=8fa30b28405c5a0bf1b545bb329102d5
-https://server.fylink.link/api/public/sub/b5d084e828f44f8b8518112cb19939e8/FYLink
-https://www.lbxjc.online/api/v1/client/subscribe?token=dfed0910310aed1ca8a28e33c813d925
-https://www.tiziwrops.com/api/v1/client/subscribe?token=6fd5d7a49a593a88ccdfb40fe344579c
+https://sub.xn--9kqt24a0kz.com/xiaomi?token=12ec3891d9cc325eb57a263e3fd5d418
+https://csgo.fask511.cfd/api/v1/client/subscribe?token=f14e52e1b15c6547e982b23481533e87
+https://l.db-link01.top/link/BauoUCZPTZWvzQgK?clash=1
+https://ss.81dlg.com/dy/ss?token=b472c74cc07e20e60d40f0e741f4dd98
+https://study.jaycloud11111.top/study?token=ea9d115179b89ad752737bceaf1d1ce6
+https://b.bbydy.org/api/v1/client/subscribe?token=b5cc7efa2d437b688b2d603da9639090
+https://sub.miaolianyun.vip/mly_sub?token=6e679a0627abe4887ac41dff4344c505
