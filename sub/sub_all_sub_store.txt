@@ -23,7 +23,6 @@ https://2381bfde-8c93-4701-8f14-24f071067a1a.nginx24bit.xyz/api/v1/client/subscr
 https://cat.ikkt.cn/api/v1/client/subscribe?token=bf587ad6317f74983bb98612a522a196
 https://www.catssr.host/api/v1/client/subscribe?token=bf587ad6317f74983bb98612a522a196
 https://www.catssr.one/api/v1/client/subscribe?token=bf587ad6317f74983bb98612a522a196
-https://ss.81dlg.com/dy/ss?token=7a2553af9f2fb3fb77aa660cfbfbe981
 https://ymzx.jiedianxielou.workers.dev/api/v1/client/subscribe?token=8dfd36317be546ce993d2fc792cbe270
 https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=6d356f188634de6f14b70c20488b5079
 https://subscribe.fastsocks.xyz/api/v1/client/subscribe?token=d6681ca8e218af8f2ae0699e542e419c#Fastsoks
@@ -31,11 +30,7 @@ https://linke.phantasy.life/api/v1/client/subscribe?token=1cc7a298ad12e7ac0dfd87
 https://linke.phantasy.life/api/v1/client/subscribe?token=1cc7a298ad12e7ac0dfd87f579da2023&amp;flag=meta
 https://sub.sanfen018.xyz/api/v1/client/subscribe?token=345e0fd313f9ef93b0ff8476fe54b4cd&amp;flag=clash
 https://linke.phantasy.life/api/v1/client/subscribe?token=0072d7d5b225b936675b2f6d5e87d9de
-https://platform.djjc.cfd/api/v1/client/subscribe?token=1fd059c27e4f1d3402b4cbfaa6358a02
-https://zero.76898102.xyz/link/CsElTBN1F3RqmjjQ?list=shadowrocket
-https://zero.76898102.xyz/link/T0MDjg1bJK13JKbv?list=shadowrocket
 https://zero.76898102.xyz/link/VJ93O5K98PneMoAA?list=shadowrocket
-https://zero.76898102.xyz/link/tm3RQPCHyZNqnEjg?list=shadowrocket
 https://3dxre.no-mad-world.club/link/4BJUHDdrBdPAQN1U?clash=3
 https://s1.byte33.com/api/v1/client/subscribe?token=cd02e7650835fe1a623fcedb85621924
 https://52daishu.uk/api/v1/client/subscribe?token=7ac825032570a917a24257a04a68568a
@@ -45,9 +40,10 @@ https://dl.vfkum.website/api/v1/client/subscribe?token=c8684da353178ab2c34d3a167
 https://rss202407.mugua-sub.com/link/KJcTUT9qI39U4bMr?clash=1
 https://cm-sub.pz.pe/subscribe/RH38BUSQ3IRD8NPS?node=mix
 https://s1.bnpublicsub.com/api/v1/client/subscribe?token=0ddb873fe9b1743f95dd8cd8fe890c44
-https://s1.bnsubservdom.com/api/v1/client/subscribe?token=c03752033d7f2b0ba9f1e8ef0b174307
 https://sub.xn--9kqt24a0kz.com/xiaomi?token=12ec3891d9cc325eb57a263e3fd5d418
+https://s1.bnsubservdom.com/api/v1/client/subscribe?token=c03752033d7f2b0ba9f1e8ef0b174307
 https://api.liltjay.ip-ddns.com/TQWMYCWH2D
+https://sub.tgzdyz2.xyz/sub
 https://d1to2me5cb4qc0.cloudfront.net/api/v1/client/subscribe?token=ab2f50f47bf28d3a7ee2dbdcbfda4b86
 https://38.181.25.67/api/v1/client/subscribe?token=9fbba2d5e199b0a8fb1fb3f27538c3e4
 https://linke.phantasy.life/api/v1/client/subscribe?token=881e3b9aa28e204bf363c94ecc40ff11
