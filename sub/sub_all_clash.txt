@@ -1,8 +1,7 @@
-http://g3i.buzz/v3/subscr?id=0998cfcf655b4e618b3a267fd3176a7a
-https://2381bfde-8c93-4701-8f14-24f071067a1a.nginx24bit.xyz/api/v1/client/subscribe?token=7a34a7e4d092c4bc11064c4ca594a15c
-http://vip.365cloud.me/api/v1/client/subscribe?token=9c18a0ec1053e6a65f51dc7cc6493ced
-https://jixingnetwork.sbs/api/v1/client/subscribe?token=bb6c1f203b9e3e565125f3b78c611794
-https://cpdd.one/sub?token=004c8f491fd34b029cd81badf89f8ced
-https://mojie.app/api/v1/client/subscribe?token=ce77d629eb0bcea28739ffefa5620218
-https://rxxqa.no-mad-world.club/link/j7an2TTYPEdL9qGO?clash=3&amp;extend=1
-https://update.glados-config.com/clash/453205/fa870f5/25488/glados.yaml
+https://ch.louwangzhiyu.xyz/api/v1/client/subscribe?token=04db78dcb0f6b116580df1baea147a54
+https://cm-sub.pz.pe/subscribe/PCAL2H5KC5DZ9H9Z?clash=1
+https://d2f42a86-2a1f-49b5-bd2f-d2154daa6a09.com/api/v1/client/subscribe?token=9f94bdaabe3a18cbf142101e29f451df
+https://dl.vfkum.website/api/v1/client/subscribe?token=c8684da353178ab2c34d3a16726c4584
+https://pqjc.site/api/v1/client/subscribe?token=d914ff92ab5c7a2d2bcf11652f514bcc
+https://sub.lingche.icu/api/v1/client/subscribe?token=48e95450735e7d06d61b56f9bdb349fc
+https://vot.278986.xyz/api/v1/client/subscribe?token=5596c41f1db48da17b8271aa6975016b
