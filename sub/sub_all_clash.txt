@@ -1,10 +1,6 @@
-https://cdn1711437153.ppgnginx.com/api/v1/client/subscribe?token=37536af5f39e95dc9aed38399fac8ad4
-https://mojie.app/api/v1/client/subscribe?token=0ce896d17bde60480c9e1a8bb540b29e
-https://pavo.eu.org/api/v1/client/subscribe?token=f548cee7fef0b06cbed0983c7cd901d2
-https://pqjc.site/api/v1/client/subscribe?token=0d41f5bd237d1ab92b907e1e7d5e5cb3
-https://pqjc.site/api/v1/client/subscribe?token=9e0446eff3b9760877be511303f6e1bf&amp;flag=meta
-https://sub.xinyo.vip/api/v1/client/subscribe?token=191ff749aef5fc340847cb7b846e8be1
-https://sub.yslink.cc/api/v1/client/subscribe?token=c9247b94038cf17070932b40bef7509b
-https://suba.lingche.icu/api/v1/client/subscribe?token=48e95450735e7d06d61b56f9bdb349fc
-https://user.1vpn.sbs/api/v1/client/subscribe?token=6f5241982cdfdc7dbe0bbcc381e8b7da
-https://xn--fhqu06a8m1asto.icu/linju?token=452218820b59174be3213ed661b9685a
+http://g3i.buzz/v3/subscr?id=c64d8ba46be149169bb8651d41173901
+https://api.xinyo.vip/api/v1/client/subscribe?token=825684aa7107efeabe525c12bd10bd02
+https://api.liltjay.ip-ddns.com/TQWMYCWH2D
+https://cpdd.one/sub?token=004c8f491fd34b029cd81badf89f8ced
+https://subs.zeabur.app/clash
+https://linke.phantasy.life/api/v1/client/subscribe?token=881e3b9aa28e204bf363c94ecc40ff11

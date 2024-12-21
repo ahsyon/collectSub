@@ -1,5 +1,4 @@
-https://c3.notesync.org/api/v1/client/subscribe?token=70Q8pahCchpkgN1rTSBS9aV3hScI6RoN
-https://mc.jiedianxielou.workers.dev/
-https://tz.vfkum.website/api/v1/client/subscribe?token=495b8f8540a275a58abc64f93ea737f0
-https://suba.lingche.icu/api/v1/client/subscribe?token=48e95450735e7d06d61b56f9bdb349fc
-https://www.catssr.one/api/v1/client/subscribe?token=bf587ad6317f74983bb98612a522a196
+https://cloudfisher.net/jsk34?token=357b5b436ac0b92e9649b964bf0e7a68
+https://linke.phantasy.life/api/v1/client/subscribe?token=1cc7a298ad12e7ac0dfd87f579da2023
+https://gbtgurl.me/api/v1/client/subscribe?token=01187f2b47200eb4794f3cb803666494
+https://server.fylink.link/api/public/sub/b50f8491769c4c7582115d402b844660/FYLink
