@@ -1,5 +1,6 @@
-https://getinfo.bigwatermelon.org/api/v1/client/subscribe?token=09d09540cc33b58f29a55a0fe686d6a6
 https://mc.jiedianxielou.workers.dev
-https://tz.vfkum.website/api/v1/client/subscribe?token=495b8f8540a275a58abc64f93ea737f0
+https://mc.jiedianxielou.workers.dev/
+https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=1eb99cf82ea0e8893f2a57f7b1a3a72c&amp;flag=clash
+https://pavo.eu.org/api/v1/client/subscribe?token=f548cee7fef0b06cbed0983c7cd901d2
+https://linke.phantasy.life/api/v1/client/subscribe?token=1cc7a298ad12e7ac0dfd87f579da2023
 https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=db8f691dbae4050ab22e5fe68351befb&amp;flag=clash
-https://www.catssr.one/api/v1/client/subscribe?token=bf587ad6317f74983bb98612a522a196
