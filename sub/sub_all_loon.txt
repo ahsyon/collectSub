@@ -1,4 +1,6 @@
-https://mc.jiedianxielou.workers.dev
-https://s1.bnpublicsub.com/api/v1/client/subscribe?token=0ddb873fe9b1743f95dd8cd8fe890c44
-https://www.066664.xyz/api/v1/client/subscribe?token=5ec34216e7bbd89ef9cbe2741ebe3f7d&amp;flag=clash
-https://server.fylink.link/api/public/sub/8fa7c0881462480d909e6a1875e039e7/FYLink
+https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
+https://www.998877.best/api/v1/client/subscribe?token=a3304db202440473dfb2afb4082eee48
+https://yuxi.fanqiev2.work/link/WZiTiXIEk5BO5944?sub=1
+https://sub.lingche.icu/api/v1/client/subscribe?token=48e95450735e7d06d61b56f9bdb349fc&amp;flag=meta
+https://cat.ikkt.cn/api/v1/client/subscribe?token=bf587ad6317f74983bb98612a522a196
+https://server.fylink.link/api/public/sub/0d18e43cbd27444a82b67b9b49b973f0/FYLink
