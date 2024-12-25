@@ -1,5 +1,6 @@
 https://mc.jiedianxielou.workers.dev
+https://mc.jiedianxielou.workers.dev/
+https://yyds.emovpn.top/api/v1/client/subscribe?token=e3564accfb797578dc8251fc07207abe
 https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
-https://tz.vfkum.website/api/v1/client/subscribe?token=495b8f8540a275a58abc64f93ea737f0
-https://b.bbydy.org/api/v1/client/subscribe?token=b5cc7efa2d437b688b2d603da9639090
-https://zjsub.gitpub.top/api/v1/client/subscribe?token=140c71acf1ef34766c267f9ea36ba79f
+https://1321078938-11mmjf3qkb-hk.scf.tencentcs.com/api/v1/client/subscribe?token=cb1270a6aa0980c4de79b49aad8098f7
+https://www.catssr.host/api/v1/client/subscribe?token=bf587ad6317f74983bb98612a522a196
